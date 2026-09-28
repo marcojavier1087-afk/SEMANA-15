@@ -1,5 +1,8 @@
 # REGISTRO DE FRUTAS
 
+MARCOS JAVIER PAREDES GUAMAN
+
+
 frutas = set()
 
 
